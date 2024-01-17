@@ -5,7 +5,7 @@ public class GoogleBillboard {
     //most of our coding here
     // for loop
         // check if the number is prime
-        System.out.println(7182818284);
+        System.out.println(2182818284);
 	}
 
 
@@ -15,3 +15,4 @@ public class GoogleBillboard {
     		//copy and pasted from coding
     		return true;  
 	}
+}// end of GoogleBillboard class
