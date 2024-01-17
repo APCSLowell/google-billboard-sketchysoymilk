@@ -5,12 +5,12 @@ public class GoogleBillboard {
     //most of our coding here
     // for loop
         // check if the number is prime
-        System.out.println(2182818284);
+        System.out.println(2818284);
 	}
 
 
 	//Finish this function
-	public boolean isPrime(double dNum){
+	public static boolean isPrime(double dNum){
 		//your code here 
     		//copy and pasted from coding
     		return true;  
